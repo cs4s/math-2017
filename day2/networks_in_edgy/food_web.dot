@@ -1,0 +1,32 @@
+digraph G {
+	
+	{
+		"Wolf"
+		"Eagle"
+		"Python"
+		"Frog"
+		"Rat"
+		"Grasshopper"
+		"Corn"
+		"Dragonfly"
+		"Thrush"
+		"Fruit Fly"
+		"Mangoes"
+		"Lavenders"
+		"A Flowering Plant"
+	}
+
+	"Wolf" -> {"Python" "Eagle"}
+	"Python" -> {"Eagle"}
+	"Frog" -> {"Python" "Eagle"}
+	"Rat" -> {"Python" "Eagle" "Wolf"}
+	"Grasshopper" -> {"Rat" "Frog"}
+	"Corn" -> {"Grasshopper"}
+	"Butterfly" -> {"Frog" "Dragonfly"}
+	"Dragonfly" -> {"Thrush" "Frog"}
+	"Thrush" -> {"Eagle" "Wolf"}
+	"Fruit Fly" -> {"Thrush" "Frog" "Dragonfly"}
+	"Mangoes" -> {"Fruit Fly"}
+	"Lavenders" -> {"Butterfly"}
+	"A Flowering Plant" -> {"Butterfly"}
+}
