@@ -13,7 +13,7 @@ In this workshop you will:
 - Learn about how Coding can be used to help students learn Mathematics
 - Learn about the concepts from the [new Networks topic](https://syllabus.nesa.nsw.edu.au/mathematics-standard-stage6/content/1322/){:target="_blank"}, from the Mathematics Standard Syllabus
 - Create programs in [Snap!](http://snap.berkeley.edu/){:target="_blank"} by using some fundamental Coding concepts
-- Write algorithms for solving Networks problems in [Edgy](http://snapapps.github.io/){:target="_blank"}
+- Write programs for solving Networks problems in [Edgy](http://snapapps.github.io/){:target="_blank"}
 
 This workshop has been developed in a partnership with [Google](https://www.cs4hs.com/index.html){:target="_blank"}.
 

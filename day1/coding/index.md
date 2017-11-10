@@ -39,3 +39,4 @@ If you complete the activity before the afternoon session's end, you may want to
 
 - [Snap! Homepage](http://snap.berkeley.edu/index.html){:target="_blank"}
 - [The Beauty and Joy of Computing Curriculum](http://bjc.berkeley.edu/website/curriculum.html){:target="_blank"}
+- [The Snap Manual (Large PDF File)](https://snap.berkeley.edu/SnapManual.pdf){:target="_blank"}

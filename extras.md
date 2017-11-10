@@ -25,3 +25,7 @@ The materials mainly involve *Mathematics* concepts from England's Key Stage 2 (
 [Bootstrap](http://www.bootstrapworld.org/){:target="_blank"} is a curriculum, developed in the United States, for teaching *Mathematics* with *Coding*.
 The materials are targeted towards high school students and cover a variety of *Mathematics* concepts, including: *Algebra*, *Geometry* and *Functions*.
 
+## Assessing Coding and Computational Thinking
+
+We compiled a list of resources for formative assessment of *Coding* and *Computational Thinking* for this year's *CS4S Introduction* workshop.
+This list of resources is available from [this page of the CS4S Introduction workshop website](https://cs4s.github.io/intro-2017/day2/assessing_coding/){:target="_blank"}.
