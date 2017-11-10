@@ -20,8 +20,6 @@ In this activity, you will learn about [Snap!](http://snap.berkeley.edu/){:targe
 
 The purpose of this activity is to familiarise you with *Snap!*, as well as to introduce you to the above concepts.
 
-We have also included a [Glossary page]({{ site.baseurl | append: site.glossary_path }}), which provides a list of key terms (including the concepts listed above) used in the workshops' activities and their definitions.
-
 The finished *Turtle Geometry program* that is referred to in the activity can [be viewed on this website](http://snap.berkeley.edu/snapsource/snap.html#present:Username=hckmd&ProjectName=Turtle%20Geometry){:target="_blank"}.
 
 ## Files

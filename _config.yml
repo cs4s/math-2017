@@ -13,12 +13,11 @@ baseurl: "/math-2017"
 
 # Content Pages Paths
 resources_path: "/resources"
-glossary_path: "/glossary"
+extras_path: "/extras"
 
 # Day 1 Paths
 day1_path: "/day1/"
 network_concepts_path: "/day1/network_concepts"
-coding_and_maths_path: "/day1/coding_and_maths"
 msts_unplugged_path: "/day1/msts_unplugged"
 coding_path: "/day1/coding"
 
