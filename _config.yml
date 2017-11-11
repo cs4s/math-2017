@@ -18,7 +18,7 @@ extras_path: "/extras"
 # Day 1 Paths
 day1_path: "/day1/"
 network_concepts_path: "/day1/network_concepts"
-msts_unplugged_path: "/day1/msts_unplugged"
+msts_path: "/day1/msts"
 coding_path: "/day1/coding"
 
 # Day 2 Paths
