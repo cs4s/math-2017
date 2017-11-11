@@ -26,4 +26,5 @@ In this activity, you will learn about the following *Networks* concepts:
 
 - [Mathematics Standard Stage 6 - Networks Topic](http://syllabus.nesa.nsw.edu.au/mathematics-standard-stage6/content/1277/){:target="_blank"}
 - [A Gentle Introduction to Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory){:target="_blank"}
+- [An Introduction to Network Analysis and Representation](http://dhs.stanford.edu/dh/networks/){:target="_blank"}
 

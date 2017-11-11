@@ -7,7 +7,7 @@ title: CS4S Maths @ UON 2017 - Day 1 - Coding in Snap!
 
 ## About
 
-In this activity, you will learn about [Snap!](http://snap.berkeley.edu/){:target="_blank"} and the following fundamental Coding concepts:
+In this activity, you will learn about [Snap!](http://snap.berkeley.edu/){:target="_blank"} and the following fundamental *Coding* concepts:
 
 - *Algorithms and Programs*
 - *Sequencing*
@@ -25,7 +25,8 @@ The finished *Turtle Geometry program* that is referred to in the activity can [
 ## Files
 
 - [Coding in Snap - Introduction to Snap Presentation (PDF Presentation)](Introduction to Snap Presentation.pdf){:target="_blank"}
-- [Coding in Snap - Fundamental Coding Concepts Activity (Word document)](Snap Activity - Fundamental Coding Concepts.docx)
+- [Coding in Snap - Fundamental Coding Concepts Activity (Word document)](Coding in Snap Activity - Fundamental Coding Concepts.docx)
+- [Turtle Geometry Base Project (XML file)](Turtle Geometry.xml){:target="_blank"}
 
 ## Activity Solutions
 
