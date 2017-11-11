@@ -7,20 +7,23 @@ title: CS4S Maths @ UON 2017 - Day 1 - Networks Concepts
 
 ## About
 
-In this activity, you will learn about the following concepts from the [Networks topic] of the new Stage 6 Mathematics Standard Syllabus:
+In this activity, you will learn about the following *Networks* concepts:
 
-- Graphs, vertices and edges
-- Adjacency matrices
-- Complete graphs
-- Subgraphs
-- Connectedness
-- Cycles
-- Depth first search
+- *Graphs, Vertices and Edges*
+- *Adjacency matrices*
+- *Complete graphs*
+- *Subgraphs*
+- *Connectedness*
+- *Cycles*
+- *Depth-first search*
 
 ## Files
 
-
+- [Networks Concepts (Powerpoint presentation)](CS4HS - Graph Theory.pptx)
+- [Networks Activity Handouts (Word document)](Handout Graph Theory.docx)
 
 ## Links
 
-- Networks topics..
+- [Mathematics Standard Stage 6 - Networks Topic](http://syllabus.nesa.nsw.edu.au/mathematics-standard-stage6/content/1277/){:target="_blank"}
+- [A Gentle Introduction to Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory){:target="_blank"}
+
