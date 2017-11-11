@@ -22,12 +22,16 @@ When the Turtle moves 0 steps, it doesn't move at all.
 
 ### Exercise 3
 
+Yes, the student has explained the code correctly.
+
+### Exercise 4
+
 The student has accidentally put *50* into one of the *move* blocks, so one of the sides of the triangle will not be the same length as the others.
 The student has also accidentally put 90 into one of the *turn* blocks, so the Turtle will not turn enough to complete the triangle (the degrees should add up to 360).
 
 The corrected code would look like the stack of blocks below:
 
-![images/corrected_triangle.png]
+![](images/corrected_triangle.png)
 
 ## Repetition
 
