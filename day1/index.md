@@ -10,6 +10,7 @@ title: CS4S Maths 2017 @ UON - Day 1
 |---
 | Time | Session | 
 |-|-
+| 9:00am - 9:15am     | Registration & Introductions |
 | **9:15am - 9:45am** | **Coding and Computational Thinking Across the Curriculum Presentation** |
 | **9:45am - 10:45am** | [**Introduction to Networks Concepts Activity**]({{ site.baseurl | append: site.network_concepts_path }}) |
 | 10:45am - 11:00am | Morning Tea | 
