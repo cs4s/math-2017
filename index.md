@@ -27,7 +27,7 @@ The schedules for both of the days, and the materials for the hands-on activitie
 ## Workshop Materials
 
 If you would like to use any of the workshop materials in your classroom, or if you would like modify them in any way, you are welcome to do so, provided you acknowledge the original source(s).
-We have also included links to extra resources on the [Resources]( {{ site.baseurl | append: site.resources_path }} ) page and a [Glossary]( {{ site.baseurl | append: site.glossary_path }} ) page with a list of key terms and their definitions.
+We have also included links to extra resources on the [Resources]( {{ site.baseurl | append: site.resources_path }} ) page and on each of the different session pages.
 
 ## Future CS4S Events
 

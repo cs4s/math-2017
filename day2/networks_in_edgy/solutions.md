@@ -32,15 +32,19 @@ The *Graph* is not *cyclic* (acyclic) because there are no *cycles* in the *Grap
 
 The resulting *Graph* will look like the image below.
 
+![](images/nested_repetition_example.png)
 
-
-As you can see, there will be 20 nodes in the *Graph*.
+As you can see, there will be 9 (3 times 3) *nodes* in the *Graph*.
 
 ### Exercise 2
 
-The add edge is.. and this is why there is a *Graph* with only loop edges*
+The *add edge* block in the inner *repeat* block has a typo in the *edge* that is being added.
+Both of the *nodes* in the *edge* to add are the same (*item i of all the nodes*) and consequently *Loop edges* are added to the *Graph*.
+Instead the *edge* should connect *item i of all the nodes* and *item j of all the nodes*, so that there is an *edge* between each pair of *nodes*.
 
-The corrected code is:
+The corrected stack of blocks is shown in the image below:
+
+![](images/corrected_repetition_example.png)
 
 
 ## Randomisation in Edgy
@@ -77,14 +81,21 @@ G<sub>G</sub> is *cyclic*, because it contains a *cycle* of green *edges*: (*A*,
 
 ### Exercise 1
 
+The *Graph* in the *Check Your Understanding* question is shown in the image below:
 
+![](images/check_understanding_connected.png)
 
-## Cylic Graphs
+In the *algorithm* that we have created for finding whether a *Sub-Graph* with certain coloured *edges* is *connected*, it does not matter which *node* the *algorithm* starts from.
+
+If the *algorithm* starts from *B*, then no other *nodes* will be added to the *to visit Stack*, because the only *edge* out of *A* is red. Consequently, only *B* will be in the *visited List* and the *algorithm* will report that the *Graph* is not *connected*.
+
+If, however, the *edge* from *B* to *A* is green - then the *Graph* would be connected and the *algorithm* would report *true*.
 
 ## The Random Graph Program
 
+We have included pictures of what all of the blocks in the finished *Random Graph* program will look like.
+After completing the *Coding in Snap! Activity*, the blocks in your stack of blocks that follow the *when green flag clicked* block should [look like this image](images/main_stack_of_blocks.png){:target="_blank"}.
 
+The blocks inside the *Block Editor* for the *is subgraph of colour edges connected* block should [look like this image](images/is_subgraph_of_colour_edges_connected.png){:target="_blank"}
 
-
-
-
+The blocks inside the *Block Editor* for the *is subgraph of colour edges cyclic* block should [look like this image](images/is_subgraph_of_colour_edges_cyclic.png){:target="_blank"}
