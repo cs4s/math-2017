@@ -11,7 +11,7 @@ title:  CS4S Maths 2017 @ UON - Day 2
 | Time | Session |
 |-|-
 | 9:00am - 9:15am     | Registration & Introductions | 
-| **9:15am - 9:45am** | **Computational Mathematics Presentation** |
+| **9:15am - 9:45am** | [**Computational Mathematics Presentation**](Dr_Judy-anne_Osborn_Computational_Mathematics.pdf){:target="_blank"} |
 | **9:45am - 10:45am** | [**Creating Networks in Edgy Activity Part 1**]({{ site.baseurl | append: site.networks_in_edgy_path }}) |
 | 10:45am - 11:00am | Morning Tea |
 | **11:00am - 12:00pm** | [**Creating Networks in Edgy Activity Part 2**]({{ site.baseurl | append: site.networks_in_edgy_path }}) |
