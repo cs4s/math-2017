@@ -26,7 +26,6 @@ We will implement both *algorithms* (*Kruskal's* and *Prim's*) today in *Edgy* a
 
 ## Files
 
-<!-- - [Finding MSTs in Edgy Presentation]() -->
 - [Finding MSTs in Edgy Activity](Edgy Activity - Finding MSTs in Edgy.docx)
 - [Finding MSTS Base Project](MST Base Project.xml)
 - [Build Muddy City Block XML File](muddy_city.xml)

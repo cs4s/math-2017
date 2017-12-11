@@ -29,6 +29,12 @@ The schedules for both of the days, and the materials for the hands-on activitie
 If you would like to use any of the workshop materials in your classroom, or if you would like modify them in any way, you are welcome to do so, provided you acknowledge the original source(s).
 We have also included links to extra resources on the [Resources]( {{ site.baseurl | append: site.resources_path }} ) page and on each of the different session pages.
 
+The following activities were developed for this workshop and are licenced under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}:
+
+- [Coding in Snap - Fundamental Coding Concepts Activity]( {{ site.baseurl | append: site.coding_path | append: "/Coding in Snap Activity - Fundamental Coding Concepts.docx" }} )
+- [Edgy Activity - Creating Networks in Edgy Activity]( {{ site.baseurl | append: site.networks_in_edgy_path | append: "/Edgy Activity - Creating Networks in Edgy.docx" }} )
+- [Edgy Activity - Finding MSTs in Edgy]( {{ site.baseurl | append: site.msts_in_edgy_path | append: "/Edgy Activity - Finding MSTs in Edgy.docx" }} ) 
+
 ## Future CS4S Events
 
 We are planning to run more professional development opportunities next year.
